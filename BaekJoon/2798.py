@@ -1,4 +1,4 @@
-""" 문제 유형 : 배열, 완전 탐색 """
+# 문제 유형 : 배열, 완전 탐색
 
 n, m = list(map(int, input().split(' ')))
 data = list(map(int, input().split(' ')))

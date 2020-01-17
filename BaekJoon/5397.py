@@ -1,4 +1,4 @@
-""" 문제 유형 : 스택, 구현, 그리디 """
+# 문제 유형 : 스택, 구현, 그리디
 
 test_case = int(input())
 for _ in range(test_case):
