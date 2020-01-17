@@ -38,5 +38,4 @@ for _ in range(test_case):
             number[y] = 1
 
         union(x, y)
-
-    print(number[find])
+        print(number[find(x)])
