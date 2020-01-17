@@ -8,6 +8,7 @@
 
 | 문제 번호 |                     링크                      |             풀이              |
 | :-------: | :-------------------------------------------: | :---------------------------: |
+|   1427    | [문제](https://www.acmicpc.net/problem/1427)  | [Python](./BaekJoon/1427.py)  |
 |   1874    | [문제](https://www.acmicpc.net/problem/1874)  | [Python](./BaekJoon/1874.py)  |
 |   1920    | [문제](https://www.acmicpc.net/problem/1920)  | [Python](./BaekJoon/1920.py)  |
 |   1966    | [문제](https://www.acmicpc.net/problem/1966)  | [Python](./BaekJoon/1966.py)  |
