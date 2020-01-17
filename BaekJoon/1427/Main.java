@@ -5,6 +5,7 @@ public class Main {
     Scanner scan = new Scanner(System.in);
     ArrayList<Integer> arrayList = new ArrayList<Integer>();
     int num = scan.nextInt();
+    scan.close();
 
     String str = Integer.toString(num);
 
