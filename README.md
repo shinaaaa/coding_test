@@ -15,4 +15,7 @@
 |   2920    | [문제](https://www.acmicpc.net/problem/2920)  |                 [Python](./BaekJoon/2920.py)                 |     배열, 구현     |
 |   4195    | [문제](https://www.acmicpc.net/problem/4195)  |                 [Python](./BaekJoon/4195.py)                 | 해시, 집합, 그래프 |
 |   5397    | [문제](https://www.acmicpc.net/problem/5397)  |                 [Python](./BaekJoon/5397.py)                 | 스택, 구현, 그리디 |
+|   10814   | [문제](https://www.acmicpc.net/problem/10814) |                [Python](./BaekJoon/10814.py)                 |        정렬        |
 |   10930   | [문제](https://www.acmicpc.net/problem/10930) |                [Python](./BaekJoon/10930.py)                 |     해시, 구현     |
+|   10989   | [문제](https://www.acmicpc.net/problem/10989) |                [Python](./BaekJoon/10989.py)                 |        정렬        |
+|   11650   | [문제](https://www.acmicpc.net/problem/11650) |                [Python](./BaekJoon/11650.py)                 |        정렬        |
