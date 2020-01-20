@@ -29,4 +29,5 @@
 |     문제 번호      |                             링크                             |                 풀이                  | 유형 |
 | :----------------: | :----------------------------------------------------------: | :-----------------------------------: | :--: |
 | 완주하지 못한 선수 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) | [Java](./Programmers/42576/Main.java) | 해시 |
+|  같은 숫자는 싫어  | [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) | [Java](./Programmers/12906/Main.java) |      |
 
