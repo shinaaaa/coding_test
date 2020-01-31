@@ -4,6 +4,8 @@
 
 [프로그래머스 코딩 테스트](#프로그래머스)
 
+[SW Expert Academy](#SW-Expert-Academy)
+
 ## 백준 코딩 테스트
 
 | 문제 번호 |                     링크                      |                             풀이                             |        유형        |
@@ -37,4 +39,12 @@
 | 완주하지 못한 선수 | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) | [Java](./Programmers/42576/Main.java) | 해시 |
 |  같은 숫자는 싫어  | [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) | [Java](./Programmers/12906/Main.java) |      |
 |     가장 큰 수     | [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) | [Java](./Programmers/42746/Main.java) | 정렬 |
+
+
+
+## SW Expert Academy
+
+|      문제 번호       |                             링크                             |                     풀이                     | 유형 |
+| :------------------: | :----------------------------------------------------------: | :------------------------------------------: | :--: |
+| 2072 (홀수만 더하기) | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq#none) | [Java](./SWExpertAcademy/2072/Solution.java) |      |
 
