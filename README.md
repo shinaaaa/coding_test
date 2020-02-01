@@ -46,6 +46,7 @@
 
 |           문제 번호            |                             링크                             |                     풀이                     | 유형 |
 | :----------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :--: |
+|       2063 (중간값 찾기)       | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPsXKA2UDFAUq&categoryId=AV5QPsXKA2UDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2063/Solution.java) |      |
 |      2068 (최대수 구하기)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQhbqA4QDFAUq&categoryId=AV5QQhbqA4QDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2068/Solution.java) |      |
 | 2070 (큰 놈, 작은 놈, 같은 놈) | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQ6qqA40DFAUq&categoryId=AV5QQ6qqA40DFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2070/Solution.java) |      |
 |      2071 (평균값 구하기)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2071/Solution.java) |      |
