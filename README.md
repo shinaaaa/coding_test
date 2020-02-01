@@ -44,8 +44,9 @@
 
 ## SW Expert Academy
 
-|      문제 번호       |                             링크                             |                     풀이                     | 유형 |
-| :------------------: | :----------------------------------------------------------: | :------------------------------------------: | :--: |
-| 2071 (평균값 구하기) | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2071/Solution.java) |      |
-| 2072 (홀수만 더하기) | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq#none) | [Java](./SWExpertAcademy/2072/Solution.java) |      |
+|           문제 번호            |                             링크                             |                     풀이                     | 유형 |
+| :----------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :--: |
+| 2070 (큰 놈, 작은 놈, 같은 놈) | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQ6qqA40DFAUq&categoryId=AV5QQ6qqA40DFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2070/Solution.java) |      |
+|      2071 (평균값 구하기)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2071/Solution.java) |      |
+|      2072 (홀수만 더하기)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq#none) | [Java](./SWExpertAcademy/2072/Solution.java) |      |
 
