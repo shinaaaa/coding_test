@@ -46,6 +46,8 @@
 
 |           문제 번호            |                             링크                             |                     풀이                     | 유형 |
 | :----------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :--: |
+|       2056 (연월일 달력)       | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QLkdKAz4DFAUq&categoryId=AV5QLkdKAz4DFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2056/Solution.java) |      |
+|      2058 (자릿수 더하기)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPRjqA10DFAUq&categoryId=AV5QPRjqA10DFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2058/Solution.java) |      |
 |       2063 (중간값 찾기)       | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPsXKA2UDFAUq&categoryId=AV5QPsXKA2UDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2063/Solution.java) |      |
 |      2068 (최대수 구하기)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQhbqA4QDFAUq&categoryId=AV5QQhbqA4QDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2068/Solution.java) |      |
 | 2070 (큰 놈, 작은 놈, 같은 놈) | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QQ6qqA40DFAUq&categoryId=AV5QQ6qqA40DFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2070/Solution.java) |      |
