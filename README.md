@@ -46,6 +46,7 @@
 
 |           문제 번호            |                             링크                             |                     풀이                     | 유형 |
 | :----------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :--: |
+|  2050 (알파벳을 숫자로 변환)   | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QLGxKAzQDFAUq&categoryId=AV5QLGxKAzQDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2050/Solution.java) |      |
 |       2056 (연월일 달력)       | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QLkdKAz4DFAUq&categoryId=AV5QLkdKAz4DFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2056/Solution.java) |      |
 |      2058 (자릿수 더하기)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPRjqA10DFAUq&categoryId=AV5QPRjqA10DFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2058/Solution.java) |      |
 |       2063 (중간값 찾기)       | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QPsXKA2UDFAUq&categoryId=AV5QPsXKA2UDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2063/Solution.java) |      |
