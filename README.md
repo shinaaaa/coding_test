@@ -46,6 +46,7 @@
 
 |           문제 번호            |                             링크                             |                     풀이                     | 유형 |
 | :----------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :--: |
+|  2029 (몫과 나머지 출력하기)   | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2029/Solution.java) |      |
 |     2043 (서랍의 비밀번호)     | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/2043/Solution.py) |      |
 |      2047 (신문 헤드라인)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKsLaAy0DFAUq&categoryId=AV5QKsLaAy0DFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2047/Solution.java) |      |
 |  2050 (알파벳을 숫자로 변환)   | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QLGxKAzQDFAUq&categoryId=AV5QLGxKAzQDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2050/Solution.java) |      |
