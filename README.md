@@ -46,6 +46,12 @@
 
 |           문제 번호            |                             링크                             |                     풀이                     | 유형 |
 | :----------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :--: |
+|  1545 (거꾸로 출력해 보아요)   | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE) | [Python](./SWExpertAcademy/1545/Solution.py) |      |
+|    1933 (간단한 N 의 약수)     | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1933/Solution.py) |      |
+|     1936 (1대1 가위바위보)     | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1936/Solution.py) |      |
+|   1938 (아주 간단한 계산기)    | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1938/Solution.py) |      |
+|        2019 (더블더블)         | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QDEX6AqwDFAUq&categoryId=AV5QDEX6AqwDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/2019/Solution.py) |      |
+|         2025 (N줄덧셈)         | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QFZtaAscDFAUq&categoryId=AV5QFZtaAscDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2025/Solution.java) |      |
 |  2029 (몫과 나머지 출력하기)   | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QGNvKAtEDFAUq&categoryId=AV5QGNvKAtEDFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2029/Solution.java) |      |
 |     2043 (서랍의 비밀번호)     | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq&categoryId=AV5QJ_8KAx8DFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/2043/Solution.py) |      |
 |      2047 (신문 헤드라인)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QKsLaAy0DFAUq&categoryId=AV5QKsLaAy0DFAUq&categoryType=CODE) | [Java](./SWExpertAcademy/2047/Solution.java) |      |
