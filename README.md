@@ -47,6 +47,7 @@
 |           문제 번호            |                             링크                             |                     풀이                     | 유형 |
 | :----------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :--: |
 |  1545 (거꾸로 출력해 보아요)   | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2gbY0qAAQBBAS0&categoryId=AV2gbY0qAAQBBAS0&categoryType=CODE) | [Python](./SWExpertAcademy/1545/Solution.py) |      |
+|   1859 (백만 장자 프로젝트)    | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc) | [Python](./SWExpertAcademy/1859/Solution.py) |      |
 |    1933 (간단한 N 의 약수)     | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq&categoryId=AV5PhcWaAKIDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1933/Solution.py) |      |
 |     1936 (1대1 가위바위보)     | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjKXKALcDFAUq&categoryId=AV5PjKXKALcDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1936/Solution.py) |      |
 |   1938 (아주 간단한 계산기)    | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjsYKAMIDFAUq&categoryId=AV5PjsYKAMIDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1938/Solution.py) |      |
