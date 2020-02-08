@@ -7,5 +7,4 @@ for test_case in range(1, T + 1):
         if(text[0:i] == text[i:i*2]):
             t1 = text[0:i]
             break
-
-    print('#', test_case, ' ', len(t1))
+    print('#{} {}'.format(test_case, len(t1)))
