@@ -1,12 +1,11 @@
 T = int(input())
-
+ 
 for test_case in range(1, T + 1):
-    num = int(input())
-    result = 0
-    for i in range(1, num+1):
-        if i % 2 != 0:
-            result += i
-        else:
-            result += -i
-
+    text = str(input())
+    length = len(text)
+    result = 1
+    for i in range(length):
+        if(text[i] != text[-i-1]):
+            result = 0
+            break
     print('#{} {}'.format(test_case, result))
