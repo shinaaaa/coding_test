@@ -11,4 +11,4 @@ for test_case in range(1, T + 1):
         result = int(sum(arr)/len(arr))+1
     else:
         result = int(sum(arr)/len(arr))
-    print('#', test_case, ' ', result)
+    print('#{} {}'.format(test_case, result))
