@@ -10,5 +10,5 @@ for test_case in range(1, T+1):
 
     for i in range(n):
         for j in range(n):
-            print()
+            print('i')
     print(arr)
