@@ -21,8 +21,7 @@ for test_case in range(1, T+1):
                 a.append(arr[j][i])
             result.append(text)
             il.append(a)
-            il.clear()
-        count += 1
+        count += 1 
         if count > 2:
             break
     print(result)
