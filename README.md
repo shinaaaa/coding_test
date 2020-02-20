@@ -55,6 +55,7 @@
 |    1945 (간단한 소인수분해)    | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1945/Solution.py) |      |
 |    1946 (간단한 압축 풀기)     | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1946/Solution.py) |      |
 |       1948 (날짜 계산기)       | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PnnU6AOsDFAUq&categoryId=AV5PnnU6AOsDFAUq&categoryType=CODE&&&) | [Python](./SWExpertAcademy/1948/Solution.py) |      |
+|     1961 (숫자 배열 회전)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq) | [Python](./SWExpertAcademy/1961/Solution.py) |      |
 |     1966 (숫자를 정렬하자)     | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1966/Solution.py) |      |
 |      1970 (쉬운 거스름돈)      | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1970/Solution.py) |      |
 |       1974 (스도쿠 검증)       | [문제](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE) | [Python](./SWExpertAcademy/1974/Solution.py) |      |

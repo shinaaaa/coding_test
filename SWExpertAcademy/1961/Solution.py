@@ -1,28 +1,17 @@
-import copy
-
-T = int(input())
-
-for test_case in range(1, T+1):
-    n = int(input())
-    arr = []
-    count = 0
-    for i in range(n):
-        arr.append(list(map(int, input().split())))
-
-    il = []
-    result = []
-
-    while True:
-        for i in range(n):
-            text = ""
-            a = []
-            for j in range(n-1, -1, -1):
-                text += str(arr[j][i])
-                a.append(arr[j][i])
-            result.append(text)
-            il.append(a)
-        count += 1 
-        if count > 2:
-            break
-    print(result)
-    print(il)
+ts = int(input())
+for _ in range(1, ts+1):
+    size = int(input().strip())
+    world = [list(input().strip().split()) for row in range(size)]
+    turn_90 = [['' for col in range(size)] for row in range(size)]
+    turn_180 = [['' for col in range(size)] for row in range(size)]
+    turn_270 = [['' for col in range(size)] for row in range(size)]
+    for i in range(size):
+        for j in range(size):
+            turn_90[j][-1-i] = world[i][j]
+            turn_180[-1-i][-1-j] = world[i][j]
+            turn_270[-1-j][i] = world[i][j]
+    print('#{}'.format(_))
+    for i in range(size):
+        print(''.join(turn_90[i]), end=' ')
+        print(''.join(turn_180[i]), end=' ')
+        print(''.join(turn_270[i]))
