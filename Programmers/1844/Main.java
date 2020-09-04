@@ -45,7 +45,7 @@ public class Solution {
       final int[][] moving = { { 0, -1 }, { 0, 1 }, { -1, 0 }, { 1, 0 } };
       for (int i = 0; i < moving.length; i++) {
         Position moved = new Position(current.x + moving[i][0], current.y + moving[i][1]); // 이동하게될 위치
-        if (moved.isValid(mapWidth, mpaHeight))
+        if (!moved.isValid(mapWidth, mpaHeight))
           continue; // 지도 밖을 벗어 나는 경우
         if (visited[moved.y][moved.x])
           continue; // 이미 방문한 경우

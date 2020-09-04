@@ -40,6 +40,7 @@
 |    같은 숫자는 싫어    | [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) |   [Java](./Programmers/12906/Main.java)   |      |
 |       가장 큰 수       | [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) |   [Java](./Programmers/42746/Main.java)   | 정렬 |
 | 문자열 내 p와 y의 개수 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) | [Python](./Programmers/12916/solution.py) | 정렬 |
+|    게임 맵 최단거리    | [문제](https://programmers.co.kr/learn/courses/30/lessons/1844) |   [Java](./Programmers/1844/Main.java)    | BFS  |
 
 
 
