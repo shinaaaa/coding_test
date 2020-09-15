@@ -43,6 +43,7 @@
 |    게임 맵 최단거리    | [문제](https://programmers.co.kr/learn/courses/30/lessons/1844) |   [Java](./Programmers/1844/Main.java)    | BFS  |
 |        K번째수         | [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) | [Java](./Programmers/42748/Solution.java) | 배열 |
 |  두 개 뽑아서 더하기   | [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) | [Java](./Programmers/68644/Solution.java) | 배열 |
+|  크레인 인형뽑기 게임  | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) | [Java](./Programmers/64061/Solution.java) | 스택 |
 
 
 
