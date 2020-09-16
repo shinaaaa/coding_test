@@ -34,16 +34,17 @@
 
 ## 프로그래머스
 
-|       문제 번호        |                             링크                             |                   풀이                    | 유형 |
-| :--------------------: | :----------------------------------------------------------: | :---------------------------------------: | :--: |
-|   완주하지 못한 선수   | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) |   [Java](./Programmers/42576/Main.java)   | 해시 |
-|    같은 숫자는 싫어    | [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) |   [Java](./Programmers/12906/Main.java)   |      |
-|       가장 큰 수       | [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) |   [Java](./Programmers/42746/Main.java)   | 정렬 |
-| 문자열 내 p와 y의 개수 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) | [Python](./Programmers/12916/solution.py) | 정렬 |
-|    게임 맵 최단거리    | [문제](https://programmers.co.kr/learn/courses/30/lessons/1844) |   [Java](./Programmers/1844/Main.java)    | BFS  |
-|        K번째수         | [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) | [Java](./Programmers/42748/Solution.java) | 배열 |
-|  두 개 뽑아서 더하기   | [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) | [Java](./Programmers/68644/Solution.java) | 배열 |
-|  크레인 인형뽑기 게임  | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) | [Java](./Programmers/64061/Solution.java) | 스택 |
+|       문제 번호        |                             링크                             |                   풀이                    |   유형   |
+| :--------------------: | :----------------------------------------------------------: | :---------------------------------------: | :------: |
+|   완주하지 못한 선수   | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) |   [Java](./Programmers/42576/Main.java)   |   해시   |
+|    같은 숫자는 싫어    | [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) |   [Java](./Programmers/12906/Main.java)   |          |
+|       가장 큰 수       | [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) |   [Java](./Programmers/42746/Main.java)   |   정렬   |
+| 문자열 내 p와 y의 개수 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) | [Python](./Programmers/12916/solution.py) |   정렬   |
+|    게임 맵 최단거리    | [문제](https://programmers.co.kr/learn/courses/30/lessons/1844) |   [Java](./Programmers/1844/Main.java)    |   BFS    |
+|        K번째수         | [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) | [Java](./Programmers/42748/Solution.java) |   배열   |
+|  두 개 뽑아서 더하기   | [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) | [Java](./Programmers/68644/Solution.java) |   배열   |
+|  크레인 인형뽑기 게임  | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) | [Java](./Programmers/64061/Solution.java) |   스택   |
+|        모의고사        | [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) | [Java](./Programmers/42840/Solution.java) | 완전탐색 |
 
 
 
