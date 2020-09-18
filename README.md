@@ -45,6 +45,7 @@
 |  두 개 뽑아서 더하기   | [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) | [Java](./Programmers/68644/Solution.java) |   배열   |
 |  크레인 인형뽑기 게임  | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) | [Java](./Programmers/64061/Solution.java) |   스택   |
 |        모의고사        | [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) | [Java](./Programmers/42840/Solution.java) | 완전탐색 |
+|         2016년         | [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) | [Java](./Programmers/12901/Solution.java) |   배열   |
 
 
 
