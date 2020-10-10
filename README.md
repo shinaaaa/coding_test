@@ -51,6 +51,7 @@
 |          시저 암호          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) | [Java](./Programmers/12926/Solution.java) |   배열   |
 |     핸드폰 번호 가리기      | [문제](https://programmers.co.kr/learn/courses/30/lessons/12948) | [Java](./Programmers/12948/Solution.java) |          |
 | 자연수 뒤집어 배열로 만들기 | [문제](https://programmers.co.kr/learn/courses/30/lessons/12932) | [Java](./Programmers/12932/Solution.java) |   배열   |
+|          하샤드 수          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12947) | [Java](./Programmers/12947/Solution.java) |   배열   |
 
 
 
