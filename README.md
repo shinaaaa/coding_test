@@ -54,6 +54,7 @@
 |         올바른 괄호          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12909) |          [Java](./Programmers/12909/Solution.java)           |          |
 | 로또의 최고 순위와 최저 순위 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) |          [Python](./Programmers/77484/solution.py)           |          |
 |           비밀지도           | [문제](https://programmers.co.kr/learn/courses/30/lessons/17681) |          [Python](./Programmers/17681/solution.py)           |          |
+|       신규 아이디 추천       | [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) |          [Python](./Programmers/72410/solution.py)           |          |
 
 ## SW Expert Academy
 
