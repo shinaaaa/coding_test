@@ -55,6 +55,7 @@
 | 로또의 최고 순위와 최저 순위 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) |          [Python](./Programmers/77484/solution.py)           |          |
 |           비밀지도           | [문제](https://programmers.co.kr/learn/courses/30/lessons/17681) |          [Python](./Programmers/17681/solution.py)           |          |
 |       신규 아이디 추천       | [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) |          [Python](./Programmers/72410/solution.py)           |          |
+|            실패율            | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |          [Python](./Programmers/42889/solution.py)           |   정렬   |
 
 ## SW Expert Academy
 
