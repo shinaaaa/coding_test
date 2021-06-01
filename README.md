@@ -57,6 +57,7 @@
 |       신규 아이디 추천       | [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) |          [Python](./Programmers/72410/solution.py)           |          |
 |            실패율            | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |          [Python](./Programmers/42889/solution.py)           |   정렬   |
 |        키패드 누르기         | [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) |          [Python](./Programmers/67256/solution.py)           |   배열   |
+|     행렬 테두리 회전하기     | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) |          [Python](./Programmers/77485/solution.py)           |   행렬   |
 
 ## SW Expert Academy
 
