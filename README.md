@@ -11,7 +11,7 @@
 | 문제 번호 |                     링크                      |                             풀이                             |        유형        |
 | :-------: | :-------------------------------------------: | :----------------------------------------------------------: | :----------------: |
 |   1074    | [문제](https://www.acmicpc.net/problem/1074)  |                 [Python](./BaekJoon/1074.py)                 |      재귀함수      |
-|   1406    | [문제](https://www.acmicpc.net/problem/1406)  |                 [Java](./BaekJoon/1406/Main.java)            |       리스트       |
+|   1406    | [문제](https://www.acmicpc.net/problem/1406)  |              [Java](./BaekJoon/1406/Main.java)               |       리스트       |
 |   1427    | [문제](https://www.acmicpc.net/problem/1427)  | [Python](./BaekJoon/1427/1427.py), [Java](./BaekJoon/1427/Main.java) |     정렬, 배열     |
 |   1874    | [문제](https://www.acmicpc.net/problem/1874)  | [Python](./BaekJoon/1874/1874.py), [Java](./BaekJoon/1874/Main.java) |    스택, 그리디    |
 |   1920    | [문제](https://www.acmicpc.net/problem/1920)  |                 [Python](./BaekJoon/1920.py)                 |  해시, 배열, 구현  |
@@ -30,6 +30,7 @@
 |   10989   | [문제](https://www.acmicpc.net/problem/10989) |                [Python](./BaekJoon/10989.py)                 |        정렬        |
 |   11004   | [문제](https://www.acmicpc.net/problem/11004) |                [Python](./BaekJoon/11004.py)                 |        정렬        |
 |   11650   | [문제](https://www.acmicpc.net/problem/11650) |                [Python](./BaekJoon/11650.py)                 |        정렬        |
+|   14502   | [문제](https://www.acmicpc.net/problem/14502) |                [Python](./BaekJoon/14502.py)                 |      완전탐색      |
 
 ## 프로그래머스
 
