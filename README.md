@@ -60,6 +60,7 @@
 |        키패드 누르기         | [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) |          [Python](./Programmers/67256/solution.py)           |   배열    |
 |     행렬 테두리 회전하기     | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) |          [Python](./Programmers/77485/solution.py)           |   행렬    |
 |          소수 찾기           | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) |          [Python](./Programmers/42839/solution.py)           | 완전 탐색 |
+|          괄호 변환           | [문제](https://programmers.co.kr/learn/courses/30/lessons/60058) |          [Python](./Programmers/60058/solution.py)           | 재귀함수  |
 
 ## SW Expert Academy
 
