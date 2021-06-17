@@ -61,6 +61,7 @@
 |     행렬 테두리 회전하기     | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) |          [Python](./Programmers/77485/solution.py)           |   행렬    |
 |          소수 찾기           | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) |          [Python](./Programmers/42839/solution.py)           | 완전 탐색 |
 |          괄호 변환           | [문제](https://programmers.co.kr/learn/courses/30/lessons/60058) |          [Python](./Programmers/60058/solution.py)           | 재귀함수  |
+|      [1차] 프렌즈4블록       | [문제](https://programmers.co.kr/learn/courses/30/lessons/17679) |          [Python](./Programmers/17679/solution.py)           |   구현    |
 
 ## SW Expert Academy
 
