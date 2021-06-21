@@ -64,6 +64,7 @@
 |      [1차] 프렌즈4블록       | [문제](https://programmers.co.kr/learn/courses/30/lessons/17679) |          [Python](./Programmers/17679/solution.py)           |   구현    |
 |        [3차] 방금그곡        | [문제](https://programmers.co.kr/learn/courses/30/lessons/17683) |          [Python](./Programmers/17683/solution.py)           |   구현    |
 |          오픈채팅방          | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888) |          [Python](./Programmers/42888/solution.py)           |   구현    |
+|         문자열 압축          | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |          [Python](./Programmers/60057/solution.py)           |   구현    |
 
 ## SW Expert Academy
 
