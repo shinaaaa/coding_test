@@ -66,6 +66,7 @@
 |          오픈채팅방          | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888) |          [Python](./Programmers/42888/solution.py)           |   구현    |
 |         문자열 압축          | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |          [Python](./Programmers/60057/solution.py)           |   구현    |
 |          순위 검색           | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |          [Python](./Programmers/72412/solution.py)           | 이분 탐색 |
+|     숫자 문자열과 영단어     | [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) |          [Python](./Programmers/81301/solution.py)           |   구현    |
 
 ## SW Expert Academy
 
