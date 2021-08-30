@@ -69,6 +69,7 @@
 |     숫자 문자열과 영단어     | [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) |          [Python](./Programmers/81301/solution.py)           |   구현    |
 |         메뉴 리뉴얼          | [문제](https://programmers.co.kr/learn/courses/30/lessons/72411) |          [Python](./Programmers/72411/solution.py)           |   재귀    |
 |         음양 더하기          | [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) |          [Python](./Programmers/76501/solution.py)           |   구현    |
+|             내적             | [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) |          [Python](./Programmers/70128/solution.py)           |   구현    |
 
 ## SW Expert Academy
 
