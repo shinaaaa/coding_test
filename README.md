@@ -71,6 +71,7 @@
 |         음양 더하기          | [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) |          [Python](./Programmers/76501/solution.py)           |   구현    |
 |             내적             | [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) |          [Python](./Programmers/70128/solution.py)           |   구현    |
 |     부족한 금액 계산하기     | [문제](https://programmers.co.kr/learn/courses/30/lessons/82612) |          [Python](./Programmers/82612/solution.py)           |   구현    |
+|    문자열을 정수로 바꾸기    | [문제](https://programmers.co.kr/learn/courses/30/lessons/12925) |          [Python](./Programmers/12925/solution.py)           |   구현    |
 
 ## SW Expert Academy
 
