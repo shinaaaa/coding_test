@@ -34,45 +34,46 @@
 
 ## 프로그래머스
 
-|          문제 번호           |                             링크                             |                             풀이                             |   유형    |
-| :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
-|      완주하지 못한 선수      | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) |            [Java](./Programmers/42576/Main.java)             |   해시    |
-|       같은 숫자는 싫어       | [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) |            [Java](./Programmers/12906/Main.java)             |           |
-|          가장 큰 수          | [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) |            [Java](./Programmers/42746/Main.java)             |   정렬    |
-|    문자열 내 p와 y의 개수    | [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) |          [Python](./Programmers/12916/solution.py)           |   정렬    |
-|       게임 맵 최단거리       | [문제](https://programmers.co.kr/learn/courses/30/lessons/1844) |             [Java](./Programmers/1844/Main.java)             |    BFS    |
-|           K번째수            | [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) |          [Java](./Programmers/42748/Solution.java)           |   배열    |
-|     두 개 뽑아서 더하기      | [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) |          [Java](./Programmers/68644/Solution.java)           |   배열    |
-|     크레인 인형뽑기 게임     | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) | [Python](./Programmers/64061/solution.py), [Java](./Programmers/64061/Solution.java) |   스택    |
-|           모의고사           | [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) |          [Java](./Programmers/42840/Solution.java)           | 완전탐색  |
-|            2016년            | [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) |          [Java](./Programmers/12901/Solution.java)           |   배열    |
-|          다트 게임           | [문제](https://programmers.co.kr/learn/courses/30/lessons/17682) | [Python](./Programmers/17682/solution.py), [Java](./Programmers/17682/Solution.java) |   스택    |
-|       124 나라의 숫자        | [문제](https://programmers.co.kr/learn/courses/30/lessons/12899) |          [Java](./Programmers/12899/Solution.java)           |   배열    |
-|          시저 암호           | [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) |          [Java](./Programmers/12926/Solution.java)           |   배열    |
-|      핸드폰 번호 가리기      | [문제](https://programmers.co.kr/learn/courses/30/lessons/12948) |          [Java](./Programmers/12948/Solution.java)           |           |
-| 자연수 뒤집어 배열로 만들기  | [문제](https://programmers.co.kr/learn/courses/30/lessons/12932) |          [Java](./Programmers/12932/Solution.java)           |   배열    |
-|          하샤드 수           | [문제](https://programmers.co.kr/learn/courses/30/lessons/12947) |          [Java](./Programmers/12947/Solution.java)           |   배열    |
-|         올바른 괄호          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12909) |          [Java](./Programmers/12909/Solution.java)           |           |
-| 로또의 최고 순위와 최저 순위 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) |          [Python](./Programmers/77484/solution.py)           |           |
-|           비밀지도           | [문제](https://programmers.co.kr/learn/courses/30/lessons/17681) |          [Python](./Programmers/17681/solution.py)           |           |
-|       신규 아이디 추천       | [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) |          [Python](./Programmers/72410/solution.py)           |           |
-|            실패율            | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |          [Python](./Programmers/42889/solution.py)           |   정렬    |
-|        키패드 누르기         | [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) |          [Python](./Programmers/67256/solution.py)           |   배열    |
-|     행렬 테두리 회전하기     | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) |          [Python](./Programmers/77485/solution.py)           |   행렬    |
-|          소수 찾기           | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) |          [Python](./Programmers/42839/solution.py)           | 완전 탐색 |
-|          괄호 변환           | [문제](https://programmers.co.kr/learn/courses/30/lessons/60058) |          [Python](./Programmers/60058/solution.py)           | 재귀함수  |
-|      [1차] 프렌즈4블록       | [문제](https://programmers.co.kr/learn/courses/30/lessons/17679) |          [Python](./Programmers/17679/solution.py)           |   구현    |
-|        [3차] 방금그곡        | [문제](https://programmers.co.kr/learn/courses/30/lessons/17683) |          [Python](./Programmers/17683/solution.py)           |   구현    |
-|          오픈채팅방          | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888) |          [Python](./Programmers/42888/solution.py)           |   구현    |
-|         문자열 압축          | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |          [Python](./Programmers/60057/solution.py)           |   구현    |
-|          순위 검색           | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |          [Python](./Programmers/72412/solution.py)           | 이분 탐색 |
-|     숫자 문자열과 영단어     | [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) |          [Python](./Programmers/81301/solution.py)           |   구현    |
-|         메뉴 리뉴얼          | [문제](https://programmers.co.kr/learn/courses/30/lessons/72411) |          [Python](./Programmers/72411/solution.py)           |   재귀    |
-|         음양 더하기          | [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) |          [Python](./Programmers/76501/solution.py)           |   구현    |
-|             내적             | [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) |          [Python](./Programmers/70128/solution.py)           |   구현    |
-|     부족한 금액 계산하기     | [문제](https://programmers.co.kr/learn/courses/30/lessons/82612) |          [Python](./Programmers/82612/solution.py)           |   구현    |
-|    문자열을 정수로 바꾸기    | [문제](https://programmers.co.kr/learn/courses/30/lessons/12925) |          [Python](./Programmers/12925/solution.py)           |   구현    |
-|         소수 만들기          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12977) |          [Python](./Programmers/12977/solution.py)           |   구현    |
+|          문제 번호           |                             링크                             |                             풀이                             |    유형    |
+| :--------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|      완주하지 못한 선수      | [문제](https://programmers.co.kr/learn/courses/30/lessons/42576) |            [Java](./Programmers/42576/Main.java)             |    해시    |
+|       같은 숫자는 싫어       | [문제](https://programmers.co.kr/learn/courses/30/lessons/12906) |            [Java](./Programmers/12906/Main.java)             |            |
+|          가장 큰 수          | [문제](https://programmers.co.kr/learn/courses/30/lessons/42746) |            [Java](./Programmers/42746/Main.java)             |    정렬    |
+|    문자열 내 p와 y의 개수    | [문제](https://programmers.co.kr/learn/courses/30/lessons/12916) |          [Python](./Programmers/12916/solution.py)           |    정렬    |
+|       게임 맵 최단거리       | [문제](https://programmers.co.kr/learn/courses/30/lessons/1844) |             [Java](./Programmers/1844/Main.java)             |    BFS     |
+|           K번째수            | [문제](https://programmers.co.kr/learn/courses/30/lessons/42748) |          [Java](./Programmers/42748/Solution.java)           |    배열    |
+|     두 개 뽑아서 더하기      | [문제](https://programmers.co.kr/learn/courses/30/lessons/68644) |          [Java](./Programmers/68644/Solution.java)           |    배열    |
+|     크레인 인형뽑기 게임     | [문제](https://programmers.co.kr/learn/courses/30/lessons/64061) | [Python](./Programmers/64061/solution.py), [Java](./Programmers/64061/Solution.java) |    스택    |
+|           모의고사           | [문제](https://programmers.co.kr/learn/courses/30/lessons/42840) |          [Java](./Programmers/42840/Solution.java)           |  완전탐색  |
+|            2016년            | [문제](https://programmers.co.kr/learn/courses/30/lessons/12901) |          [Java](./Programmers/12901/Solution.java)           |    배열    |
+|          다트 게임           | [문제](https://programmers.co.kr/learn/courses/30/lessons/17682) | [Python](./Programmers/17682/solution.py), [Java](./Programmers/17682/Solution.java) |    스택    |
+|       124 나라의 숫자        | [문제](https://programmers.co.kr/learn/courses/30/lessons/12899) |          [Java](./Programmers/12899/Solution.java)           |    배열    |
+|          시저 암호           | [문제](https://programmers.co.kr/learn/courses/30/lessons/12926) |          [Java](./Programmers/12926/Solution.java)           |    배열    |
+|      핸드폰 번호 가리기      | [문제](https://programmers.co.kr/learn/courses/30/lessons/12948) |          [Java](./Programmers/12948/Solution.java)           |            |
+| 자연수 뒤집어 배열로 만들기  | [문제](https://programmers.co.kr/learn/courses/30/lessons/12932) |          [Java](./Programmers/12932/Solution.java)           |    배열    |
+|          하샤드 수           | [문제](https://programmers.co.kr/learn/courses/30/lessons/12947) |          [Java](./Programmers/12947/Solution.java)           |    배열    |
+|         올바른 괄호          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12909) |          [Java](./Programmers/12909/Solution.java)           |            |
+| 로또의 최고 순위와 최저 순위 | [문제](https://programmers.co.kr/learn/courses/30/lessons/77484) |          [Python](./Programmers/77484/solution.py)           |            |
+|           비밀지도           | [문제](https://programmers.co.kr/learn/courses/30/lessons/17681) |          [Python](./Programmers/17681/solution.py)           |            |
+|       신규 아이디 추천       | [문제](https://programmers.co.kr/learn/courses/30/lessons/72410) |          [Python](./Programmers/72410/solution.py)           |            |
+|            실패율            | [문제](https://programmers.co.kr/learn/courses/30/lessons/42889) |          [Python](./Programmers/42889/solution.py)           |    정렬    |
+|        키패드 누르기         | [문제](https://programmers.co.kr/learn/courses/30/lessons/67256) |          [Python](./Programmers/67256/solution.py)           |    배열    |
+|     행렬 테두리 회전하기     | [문제](https://programmers.co.kr/learn/courses/30/lessons/77485) |          [Python](./Programmers/77485/solution.py)           |    행렬    |
+|          소수 찾기           | [문제](https://programmers.co.kr/learn/courses/30/lessons/42839) |          [Python](./Programmers/42839/solution.py)           | 완전 탐색  |
+|          괄호 변환           | [문제](https://programmers.co.kr/learn/courses/30/lessons/60058) |          [Python](./Programmers/60058/solution.py)           |  재귀함수  |
+|      [1차] 프렌즈4블록       | [문제](https://programmers.co.kr/learn/courses/30/lessons/17679) |          [Python](./Programmers/17679/solution.py)           |    구현    |
+|        [3차] 방금그곡        | [문제](https://programmers.co.kr/learn/courses/30/lessons/17683) |          [Python](./Programmers/17683/solution.py)           |    구현    |
+|          오픈채팅방          | [문제](https://programmers.co.kr/learn/courses/30/lessons/42888) |          [Python](./Programmers/42888/solution.py)           |    구현    |
+|         문자열 압축          | [문제](https://programmers.co.kr/learn/courses/30/lessons/60057) |          [Python](./Programmers/60057/solution.py)           |    구현    |
+|          순위 검색           | [문제](https://programmers.co.kr/learn/courses/30/lessons/72412) |          [Python](./Programmers/72412/solution.py)           | 이분 탐색  |
+|     숫자 문자열과 영단어     | [문제](https://programmers.co.kr/learn/courses/30/lessons/81301) |          [Python](./Programmers/81301/solution.py)           |    구현    |
+|         메뉴 리뉴얼          | [문제](https://programmers.co.kr/learn/courses/30/lessons/72411) |          [Python](./Programmers/72411/solution.py)           |    재귀    |
+|         음양 더하기          | [문제](https://programmers.co.kr/learn/courses/30/lessons/76501) |          [Python](./Programmers/76501/solution.py)           |    구현    |
+|             내적             | [문제](https://programmers.co.kr/learn/courses/30/lessons/70128) |          [Python](./Programmers/70128/solution.py)           |    구현    |
+|     부족한 금액 계산하기     | [문제](https://programmers.co.kr/learn/courses/30/lessons/82612) |          [Python](./Programmers/82612/solution.py)           |    구현    |
+|    문자열을 정수로 바꾸기    | [문제](https://programmers.co.kr/learn/courses/30/lessons/12925) |          [Python](./Programmers/12925/solution.py)           |    구현    |
+|         소수 만들기          | [문제](https://programmers.co.kr/learn/courses/30/lessons/12977) |          [Python](./Programmers/12977/solution.py)           |    구현    |
+|       다단계 칫솔 판매       | [문제](https://programmers.co.kr/learn/courses/30/lessons/77486) |          [Python](./Programmers/77486/solution.py)           | 동적계획법 |
 
 ## SW Expert Academy
 
